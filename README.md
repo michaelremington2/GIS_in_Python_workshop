@@ -1,1 +1,1 @@
-# GIS_in_R_workshop
+# GIS_in_Python_workshop
